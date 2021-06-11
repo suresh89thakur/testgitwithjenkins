@@ -4,6 +4,7 @@ pipeline {
         stage('Compile') { 
             steps { 
                echo 'complied successfully'
+                input ('want to proceed')
             }
         } 
         stage('Deploy') {
