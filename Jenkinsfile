@@ -1,22 +1,14 @@
 pipeline { 
-    agent any 
-    options {
-        skipStagesAfterUnstable()
-    }
+    agent any  
     stages {
-        stage('Build') { 
+        stage('Compile') { 
             steps { 
-                sh 'make' 
+               echo 'complied successfully'
             }
-        }
-        stage('Test'){
-            steps {
-                sh 'make check' 
-            }
-        }
+        } 
         stage('Deploy') {
             steps {
-                sh 'make publish'
+                echo 'deployed successfully'
             }
         }
     }
