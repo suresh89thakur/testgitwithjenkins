@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User 1\\source\\repos\\testgitwithjenkins\\testgitwithjenkins\\testgitwithjenkins.csproj",
+      "projectUniqueName": "C:\\Users\\User 1\\source\\repos\\suresh89thakur\\testgitwithjenkins\\testgitwithjenkins\\testgitwithjenkins.csproj",
       "projectName": "testgitwithjenkins",
-      "projectPath": "C:\\Users\\User 1\\source\\repos\\testgitwithjenkins\\testgitwithjenkins\\testgitwithjenkins.csproj",
+      "projectPath": "C:\\Users\\User 1\\source\\repos\\suresh89thakur\\testgitwithjenkins\\testgitwithjenkins\\testgitwithjenkins.csproj",
       "packagesPath": "C:\\Users\\User 1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User 1\\source\\repos\\testgitwithjenkins\\testgitwithjenkins\\obj\\",
+      "outputPath": "C:\\Users\\User 1\\source\\repos\\suresh89thakur\\testgitwithjenkins\\testgitwithjenkins\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
